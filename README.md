@@ -30,7 +30,7 @@ salary and performance analysis, and an interactive dashboard.
 - 1,721 employees flagged for attention (low attendance or performance)
 
 ## 🖼 Dashboard Preview
-![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
+[HR_Analytics_Project.xlsx](HR_Analytics_Project.xlsx)
 ## 📌 Files
 - `HR_Analytics_Project_Dataset.xlsx` – cleaned dataset with all analysis
 - `HR_Analytics_StepByStep_Guide.md` – documentation of the full process
