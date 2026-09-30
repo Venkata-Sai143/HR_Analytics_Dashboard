@@ -29,11 +29,14 @@ salary and performance analysis, and an interactive dashboard.
 - Salary shows almost no correlation with performance (0.003)
 - 1,721 employees flagged for attention (low attendance or performance)
 
-## 🖼 Dashboard Preview
-[HR_Analytics_Project.xlsx](HR_Analytics_Project.xlsx)
-## 📌 Files
-- `HR_Analytics_Project_Dataset.xlsx` – cleaned dataset with all analysis
-- `HR_Analytics_StepByStep_Guide.md` – documentation of the full process
+## 🖼️ Dashboard Preview
+
+![HR Analytics Dashboard](HR_Analytics%202026%20png.png)
+
+## 📂 Project Files
+
+- [HR_Analytics_Project.xlsx](HR_Analytics_Project.xlsx) – Excel dashboard and analysis
 
 ## 📬 Contact
+
 Feel free to connect or reach out with feedback!
